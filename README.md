@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jk-nishad-72/leet_programms/tree/master/0169-majority-element) |
+| [1796-second-largest-digit-in-a-string](https://github.com/jk-nishad-72/leet_programms/tree/master/1796-second-largest-digit-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jk-nishad-72/leet_programms/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [1796-second-largest-digit-in-a-string](https://github.com/jk-nishad-72/leet_programms/tree/master/1796-second-largest-digit-in-a-string) |
 <!---LeetCode Topics End-->
