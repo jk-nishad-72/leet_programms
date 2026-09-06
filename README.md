@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jk-nishad-72/leet_programms/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/jk-nishad-72/leet_programms/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1796-second-largest-digit-in-a-string](https://github.com/jk-nishad-72/leet_programms/tree/master/1796-second-largest-digit-in-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/jk-nishad-72/leet_programms/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
