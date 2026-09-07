@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jk-nishad-72/leet_programms/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/jk-nishad-72/leet_programms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/jk-nishad-72/leet_programms/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -36,5 +37,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/jk-nishad-72/leet_programms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/jk-nishad-72/leet_programms/tree/master/0283-move-zeroes) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/jk-nishad-72/leet_programms/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
