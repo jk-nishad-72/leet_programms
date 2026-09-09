@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/jk-nishad-72/leet_programms/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/jk-nishad-72/leet_programms/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/jk-nishad-72/leet_programms/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/jk-nishad-72/leet_programms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/jk-nishad-72/leet_programms/tree/master/0283-move-zeroes) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/jk-nishad-72/leet_programms/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/jk-nishad-72/leet_programms/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/jk-nishad-72/leet_programms/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/jk-nishad-72/leet_programms/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/jk-nishad-72/leet_programms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/jk-nishad-72/leet_programms/tree/master/0283-move-zeroes) |
 ## Math
