@@ -13,7 +13,8 @@
           i++
           j--
      }
- }
+ } 
+ 
 var rotate = function(nums, k) {  
 
     k = k % nums.length;
