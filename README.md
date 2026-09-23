@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/jk-nishad-72/leet_programms/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jk-nishad-72/leet_programms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jk-nishad-72/leet_programms/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/jk-nishad-72/leet_programms/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jk-nishad-72/leet_programms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jk-nishad-72/leet_programms/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jk-nishad-72/leet_programms/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jk-nishad-72/leet_programms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jk-nishad-72/leet_programms/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jk-nishad-72/leet_programms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/jk-nishad-72/leet_programms/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jk-nishad-72/leet_programms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jk-nishad-72/leet_programms/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/jk-nishad-72/leet_programms/tree/master/0151-reverse-words-in-a-string) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/jk-nishad-72/leet_programms/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jk-nishad-72/leet_programms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String Matching
 |  |
@@ -92,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jk-nishad-72/leet_programms/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/jk-nishad-72/leet_programms/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/jk-nishad-72/leet_programms/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
