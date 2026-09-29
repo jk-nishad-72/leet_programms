@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jk-nishad-72/leet_programms/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/jk-nishad-72/leet_programms/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/jk-nishad-72/leet_programms/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/jk-nishad-72/leet_programms/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/jk-nishad-72/leet_programms/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/jk-nishad-72/leet_programms/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/jk-nishad-72/leet_programms/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/jk-nishad-72/leet_programms/tree/master/0274-h-index) |
 ## Counting
 |  |
 | ------- |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/jk-nishad-72/leet_programms/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jk-nishad-72/leet_programms/tree/master/0055-jump-game) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/jk-nishad-72/leet_programms/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
