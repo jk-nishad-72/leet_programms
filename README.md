@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jk-nishad-72/leet_programms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/jk-nishad-72/leet_programms/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/jk-nishad-72/leet_programms/tree/master/0068-text-justification) |
+| [0125-valid-palindrome](https://github.com/jk-nishad-72/leet_programms/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/jk-nishad-72/leet_programms/tree/master/0151-reverse-words-in-a-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/jk-nishad-72/leet_programms/tree/master/1796-second-largest-digit-in-a-string) |
 ## Two Pointers
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/jk-nishad-72/leet_programms/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jk-nishad-72/leet_programms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jk-nishad-72/leet_programms/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/jk-nishad-72/leet_programms/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/jk-nishad-72/leet_programms/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/jk-nishad-72/leet_programms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/jk-nishad-72/leet_programms/tree/master/0283-move-zeroes) |
