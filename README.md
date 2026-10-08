@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/jk-nishad-72/leet_programms/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/jk-nishad-72/leet_programms/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jk-nishad-72/leet_programms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jk-nishad-72/leet_programms/tree/master/0027-remove-element) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/jk-nishad-72/leet_programms/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jk-nishad-72/leet_programms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jk-nishad-72/leet_programms/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jk-nishad-72/leet_programms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/jk-nishad-72/leet_programms/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/jk-nishad-72/leet_programms/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jk-nishad-72/leet_programms/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/jk-nishad-72/leet_programms/tree/master/0134-gas-station) |
