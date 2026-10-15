@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/jk-nishad-72/leet_programms/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/jk-nishad-72/leet_programms/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/jk-nishad-72/leet_programms/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/jk-nishad-72/leet_programms/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/jk-nishad-72/leet_programms/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/jk-nishad-72/leet_programms/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jk-nishad-72/leet_programms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/jk-nishad-72/leet_programms/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jk-nishad-72/leet_programms/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/jk-nishad-72/leet_programms/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/jk-nishad-72/leet_programms/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jk-nishad-72/leet_programms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/jk-nishad-72/leet_programms/tree/master/0209-minimum-size-subarray-sum) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/jk-nishad-72/leet_programms/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
