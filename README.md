@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/jk-nishad-72/leet_programms/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/jk-nishad-72/leet_programms/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/jk-nishad-72/leet_programms/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/jk-nishad-72/leet_programms/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/jk-nishad-72/leet_programms/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/jk-nishad-72/leet_programms/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jk-nishad-72/leet_programms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/jk-nishad-72/leet_programms/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/jk-nishad-72/leet_programms/tree/master/0068-text-justification) |
 ## Binary Search
 |  |
@@ -171,4 +173,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/jk-nishad-72/leet_programms/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/jk-nishad-72/leet_programms/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
