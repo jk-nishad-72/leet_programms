@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/jk-nishad-72/leet_programms/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/jk-nishad-72/leet_programms/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/jk-nishad-72/leet_programms/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/jk-nishad-72/leet_programms/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jk-nishad-72/leet_programms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jk-nishad-72/leet_programms/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jk-nishad-72/leet_programms/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/jk-nishad-72/leet_programms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/jk-nishad-72/leet_programms/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jk-nishad-72/leet_programms/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/jk-nishad-72/leet_programms/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/jk-nishad-72/leet_programms/tree/master/0169-majority-element) |
 | [1796-second-largest-digit-in-a-string](https://github.com/jk-nishad-72/leet_programms/tree/master/1796-second-largest-digit-in-a-string) |
 ## Divide and Conquer
@@ -174,4 +176,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/jk-nishad-72/leet_programms/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/jk-nishad-72/leet_programms/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/jk-nishad-72/leet_programms/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
